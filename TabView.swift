@@ -23,7 +23,7 @@ class TabView: UIView {
     private static var tabView: TabView = Bundle.main.loadNibNamed("TabView",
                      owner: nil,
                      options: nil)?.first as! TabView
-    var isVisibleMaster = true
+    var isVisibleFeatureChanged = true
     /*
     // Only override draw() if you perform custom drawing.
     // An empty implementation adversely affects performance during animation.
