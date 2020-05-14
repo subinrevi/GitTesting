@@ -19,7 +19,7 @@ protocol TabViewDelegate: class {
 
 
 class TabView: UIView {
-    var delegateTest:TabViewDelegate?
+    var delegateTestMaster:TabViewDelegate?
     private static var tabView: TabView = Bundle.main.loadNibNamed("TabView",
                      owner: nil,
                      options: nil)?.first as! TabView
