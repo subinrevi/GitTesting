@@ -10,7 +10,7 @@
 
 //import UIKit
 
-protocol TabViewDelegate: class {
+protocol TabViewDelegateMaster: class {
 
     func didTapAppointments()
     func didTapProfile()
