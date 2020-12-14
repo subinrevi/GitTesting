@@ -1,7 +1,7 @@
 //
 //  TabView.swift
 //  BlueTeleMed
-//
+// New details added
 //  Created by Hussanal Faroke on 03/05/20.
 //  Copyright © 2020 Subin Revi. All rights reserved.
 //
